@@ -1,3 +1,14 @@
+
+
+#Hosted project in netlify:
+https://6564e4e292f321126a2c8fb7--astounding-centaur-0f47c7.netlify.app/
+
+#Packages Used are :
+npm ,Material UI, react
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
